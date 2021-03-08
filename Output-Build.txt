@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: UserManagementApp, Configuration: Debug Any CPU ------
+1>  UserManagementApp -> C:\Users\12243\OneDrive\Desktop\User Management System in C_Sharp and SQL\UserManagementApp\UserManagementApp\bin\Debug\UserManagementApp.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
